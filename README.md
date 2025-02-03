@@ -22,3 +22,13 @@
     - **Delete**: 사용자가 메모를 삭제할 수 있습니다.
     - 구현 방법:
         - `MemoController`에 `@PutMapping`과 `@DeleteMapping`을 추가하여 수정과 삭제 기능을 구현합니다.
+
+## 강의 목록
+
+- [x] Spring 입문주차 1주차
+- [ ] Spring 입문주차 2주차
+
+## 참고 자료
+
+- [Spring 공식 문서](https://spring.io/docs)
+- [Spring 프로젝트 예제](https://github.com/spring-projects/spring-petclinic)
