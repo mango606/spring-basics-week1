@@ -23,6 +23,12 @@
     - 구현 방법:
         - `MemoController`에 `@PutMapping`과 `@DeleteMapping`을 추가하여 수정과 삭제 기능을 구현합니다.
 
+- **JDBC 연결하기**
+- **역할 분리하기**
+  - Controller는 API 요청을 받고 Service에 받아온 데이터와 함께 요청을 보냅니다.
+  - Service는 해당 요청을 수행하고, DB 작업을 Repository에 요청합니다.
+  - Repository는 DB와 연결 및 CRUD 작업을 담당합니다.
+
 ## 강의 목록
 
 - [x] Spring 입문주차 1주차
