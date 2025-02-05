@@ -2,8 +2,7 @@
 
 기본적인 메모장 기능을 구현한 프로젝트입니다. 메모를 생성, 조회, 수정, 삭제할 수 있습니다.
 
-![image](https://github.com/user-attachments/assets/b46bd5ab-43f9-4669-bf14-eb7283f87825)
-
+![image](https://github.com/user-attachments/assets/3e7d274e-77da-47ea-b77b-19e46e9930e4)
 
 ## 프로젝트 구조
 
